@@ -1,0 +1,11 @@
+{
+  "name": "agy-adviser",
+  "displayName": "Adviser",
+  "version": "0.1.0",
+  "description": "Cost-efficient second-opinion adviser subagent (pro tier) and always-on delegation rules for offloading uncertain or high-stakes decisions into an isolated context.",
+  "suggestedPrompts": [
+    "Consult the adviser subagent on the trade-offs of our current design before editing",
+    "Ask the adviser to independently verify why this bug or test failure keeps recurring",
+    "Get a second opinion from the adviser on risks and edge cases in this change"
+  ]
+}
